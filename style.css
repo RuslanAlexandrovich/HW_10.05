@@ -1,0 +1,38 @@
+.logo{
+    font-size: 30px;
+}
+.img_user{
+    width: 60px; 
+}
+.header{
+    display: flex;
+    align-items: center;
+}
+.user{
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    padding-right: 0!important;
+}
+.side li{
+    margin-bottom: 15px;
+}
+.side a{
+    display: flex;
+    align-items: center;
+    padding: 5px 0;
+}
+.side i{
+    margin-right: 10px;
+}
+.numb{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    width: 25px;
+    height: 30px;
+}
+.side a:hover{
+    background-color: rgb(181, 211, 255);
+}
